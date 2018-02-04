@@ -1,0 +1,18 @@
+{
+  "address": ":4399",
+  "reload": "off",
+  "servers": [
+    {
+      "path": "/mini",
+      "file": "mini.csv"
+    },
+    {
+      "path": "/hitokoto",
+      "file": "hitokoto.csv"
+    },
+    {
+      "path": "/hitokoto_uid",
+      "file": "hitokoto_uid.csv"
+    }
+  ]
+}
