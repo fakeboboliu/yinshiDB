@@ -9,6 +9,7 @@ yinshiDB 是为 [popu125/yinshiGo](https://github.com/popu125/yinshiGo) 准备�
 | 诗文名句小集    | `mini.csv`         | 533  | [Get](https://yinshi.bobo.moe/mini/get) [Full](https://yinshi.bobo.moe/mini/full) |
 | 一言        | `hitokoto.csv`     | 492  | [Get](https://yinshi.bobo.moe/hitokoto/get) [Full](https://yinshi.bobo.moe/hitokoto/full) |
 | 一言 - 用户提交 | `hitokoto_uid.csv` | 2173 | [Get](https://yinshi.bobo.moe/hitokoto_uid/get) [Full](https://yinshi.bobo.moe/hitokoto_uid/full) |
+| 句子迷       | `juzimi.csv`       | 3609 | [Get](https://us.fdos.me/yiyan/) 不包含来源信息      |
 | 膜蛤语集      | `frog.csv`         | 22   | 该语集收集中，暂不提供Demo                          |
 | 爽语集       | 筹备中                | 0    | 该语集收集中，暂不提供Demo                          |
 
